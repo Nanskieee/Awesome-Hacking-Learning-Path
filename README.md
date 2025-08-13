@@ -44,11 +44,6 @@ This repository curates the best **bug bounty** resources, **OSINT tools**, **CT
 - **HackTheBox**
 
 
-
-## 🔗 Connect
-💻 **Contribute & Learn together** — Fork, Star ⭐, and Share this repo with fellow hackers!  
-
-
 ## Topic
 
 - Pentesting
@@ -1530,3 +1525,8 @@ Information
 Author❤️: [UTTAM BODARA](https://buymeacoffee.com/uttambodara)
 
 License💀: [MIT License](https://opensource.org/licenses/MIT)
+
+
+## 🔗 Connect
+💻 **Contribute & Learn together** — Fork, Star ⭐, and Share this repo with fellow hackers!  
+
