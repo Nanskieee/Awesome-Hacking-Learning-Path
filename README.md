@@ -1475,3 +1475,9 @@
 - **HARD:** [Borderlands](Borderlands/README.md)
 - [Attacking ICS Plant #1](Attacking%20ICS%20Plant%201/README.md)
 
+Information
+------------------
+
+Author❤️: [UTTAM BODARA](https://buymeacoffee.com/uttambodara)
+
+License💀: [MIT License](https://opensource.org/licenses/MIT)
