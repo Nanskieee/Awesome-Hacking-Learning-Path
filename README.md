@@ -1,57 +1,52 @@
-Awesome Hacking & Cybersecurity Learning Path 🔐
+# Awesome Hacking & Cybersecurity Learning Path 🔐
 
-A comprehensive, beginner-to-advanced guide to mastering ethical hacking, penetration testing, and cybersecurity.
-This repository curates the best bug bounty resources, OSINT tools, CTF challenges, and privilege escalation techniques, along with Linux commands, Metasploit usage, and networking fundamentals — making it a perfect learning hub for aspiring ethical hackers and seasoned professionals.
+A comprehensive, beginner-to-advanced guide to mastering **ethical hacking**, **penetration testing**, and **cybersecurity**.  
+This repository curates the best **bug bounty** resources, **OSINT tools**, **CTF challenges**, and **privilege escalation techniques**, along with **Linux commands**, **Metasploit usage**, and **networking fundamentals** — making it a perfect learning hub for aspiring **ethical hackers** and seasoned professionals.
 
-📌 Topics Covered
-1. Ethical Hacking Fundamentals
-Learn the principles of ethical hacking and hacking methodologies
 
-Explore Linux basics and essential networking concepts
+## 📌 Topics Covered
 
-Understand web application security
+### 1. Ethical Hacking Fundamentals
+- Learn the principles of **ethical hacking** and **hacking methodologies**
+- Explore **Linux basics** and essential **networking** concepts
+- Understand **web application security** best practices
 
-2. Penetration Testing & Bug Bounty Hunting
-Complete penetration testing roadmaps
+### 2. Penetration Testing & Bug Bounty Hunting
+- Complete **penetration testing** roadmaps
+- Real-world **bug bounty** practice labs from **TryHackMe** & **HackTheBox**
+- **Privilege escalation** guides for **Linux** and **Windows**
 
-Real-world bug bounty practice labs from TryHackMe & HackTheBox
+### 3. OSINT (Open Source Intelligence)
+- Reconnaissance using free and open-source tools
+- **Social media** and **domain footprinting**
 
-Privilege escalation guides for Linux and Windows
+### 4. CTF & Cybersecurity Challenges
+- **CTF walkthroughs** to sharpen problem-solving skills
+- **Cryptography puzzles** and **reverse engineering** practice
 
-3. OSINT (Open Source Intelligence)
-Reconnaissance using free and open-source tools
+### 5. Advanced Tools & Frameworks
+- **Metasploit exploitation framework**
+- Reverse engineering **malware samples**
+- Secure coding & **web application security testing**
 
-Social media and domain footprinting
+---
 
-4. CTF & Cybersecurity Challenges
-CTF walkthroughs to sharpen problem-solving skills
+## 🛠 Skills You’ll Gain
+- **Ethical hacking** & **penetration testing**
+- **Bug bounty hunting** & **OSINT investigation**
+- **Networking** & **Linux system administration**
+- **Cryptography** & **reverse engineering**
+- **Privilege escalation** on **Linux** & **Windows**
 
-Cryptography puzzles and reverse engineering practice
 
-5. Advanced Tools & Frameworks
-Metasploit exploitation framework
+## 📚 Platforms Used
+- **TryHackMe**
+- **HackTheBox**
 
-Reverse engineering malware samples
 
-Secure coding and web application security testing
 
-🛠 Skills You’ll Gain
-Ethical hacking & penetration testing
-
-Bug bounty hunting & OSINT investigation
-
-Networking & Linux system administration
-
-Cryptography & reverse engineering
-
-Privilege escalation on Linux & Windows
-
-📚 Platforms Used
-TryHackMe
-HackTheBox
-
-🔗 Connect
-💻 Contribute & Learn together — Fork, Star ⭐, and Share this repo with fellow hackers!
+## 🔗 Connect
+💻 **Contribute & Learn together** — Fork, Star ⭐, and Share this repo with fellow hackers!  
 
 
 ## Topic
